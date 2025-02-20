@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: black;
+}
+
+/* Cabecera */
+.header {
+    background-color: #0000ff;
+    text-align: center;
+    padding: 10px;
+}
+
+.header h1 {
+    color: yellow;
+    font-size: 36px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+/* Caja verde */
+div.green-box {
+    background-color: #009688;
+    color: white;
+    font-family: 'Times New Roman', Times, serif
+    padding: 20px;
+    margin: 20px;
+    border-radius: px;
+    font-size: 20px;
+    position: :left;
+    display: inline-block;
+
+}
+
+/* Texto destacado */
+.highlighted-text {
+    background-color: #ffeb3b;
+    padding: 15px;
+    margin: 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    line-height: 1.6;
+}
+
+/* Caja azul */
+.blue-box {
+    background-color: #0000ff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.blue-box h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+/* Texto normal */
+.text {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+div.box green-box {
+font-family: 'Times New Roman', Times, serif;
+}
